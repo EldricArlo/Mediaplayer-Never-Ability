@@ -1,7 +1,6 @@
 # mediaPlayer-never-ability
-A filed media player, I don't konw why this player can't paly. And the player pelying on vlc component.
 
-** --- 一个失败得媒体播放器 --- **
+A filed media player, I don't konw why this player can't paly. And the player pelying on vlc component.
 
 # 代码架构
 
